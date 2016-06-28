@@ -1,0 +1,9 @@
+{
+  "name": "sourcejs-project-context",
+  "version": "0.1.0",
+  "author": "Philip Montesinos",
+  "description": "Allow project context to be added in info.json",
+  "dependencies": {
+    "deep-extend": "^0.3.2"
+  }
+}
